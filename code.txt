@@ -2,3 +2,4 @@ sky
 rice
 water
 backg
+void
