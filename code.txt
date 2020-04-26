@@ -2,4 +2,3 @@ sky
 rice
 water
 backg
-eiei
